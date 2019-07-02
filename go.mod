@@ -1,4 +1,4 @@
-module dcl-gin
+module github.com/decentraland/dcl-gin
 
 go 1.12
 
