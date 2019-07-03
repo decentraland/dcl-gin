@@ -1,4 +1,4 @@
-package status
+package dclgin
 
 import (
 	"net/http"

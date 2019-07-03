@@ -1,4 +1,4 @@
-package cors
+package dclgin
 
 import (
 	"net/http"

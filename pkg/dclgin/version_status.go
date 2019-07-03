@@ -1,4 +1,4 @@
-package version
+package dclgin
 
 import (
 	"net/http"

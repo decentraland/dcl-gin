@@ -1,4 +1,4 @@
-package metrics
+package dclgin
 
 import (
 	"github.com/gin-gonic/gin"
